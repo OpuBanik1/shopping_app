@@ -71,7 +71,7 @@ class _DetailPageState extends State<DetailPage> {
               ),
             ),
             Positioned(
-                top: 300,
+                top: 299,
                 left: 20,
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
